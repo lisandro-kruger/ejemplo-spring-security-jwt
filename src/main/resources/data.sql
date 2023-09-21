@@ -1,0 +1,3 @@
+INSERT INTO users (id,nombre, numero_de_contacto, email, password, status, role) values (1, 'admin', '3435696200', 'admin@gmail.com', 'admin', 'true', 'user')
+INSERT INTO users (id, nombre, numero_de_contacto, email, password, status, role) values (2, 'user', '3435696200', 'user@gmail.com', 'user', 'true', 'user')
+INSERT INTO users (id, nombre, numero_de_contacto, email, password, status, role) values (3, 'lisandro', '3435696200', 'lisandro@gmail.com', 'lisandro', 'false', 'user')
